@@ -1,0 +1,20 @@
+{
+   "name"："EOS"，
+   "symbol"："EKD"，
+   "contract"："ekdtokenbank"，
+   "issuer"："ekdtokenbank"，
+   "precision"：，
+   "logo"：""，
+   "desc"：{
+     "en"：” EOS（企业运营系统）是Block.one开发的区块链智能合约平台，旨在为高性能分布式应用提供底层区块链平台服务。“，
+     "zh"：” EOS（企业运营系统）是一个区块链智能合约平台，由Block.one开发。它致力于为高性能分布式应用提供区块链底层服务。“，
+     "ko"：“ EOS（企业操作系统）스마트플랫폼으로블락원（Block.one）이개발했다。고성능분산식응용을위해지역체인하위서비스를제공합니다。“
+  }，
+  "website"： "https://eos.io"，
+   "whitepaper"： "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"，
+   "links"：{
+     "github"： "https://github.com/eoskingdom"，
+     "电报"： "https://twitter.com/eoskingdom"，
+     "twitter"： "https://twitter.com/eoskingdom"
+  }
+}
